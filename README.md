@@ -1,6 +1,21 @@
 # 1P1Q-screening-estimates-the-complex-voltage-V-vector-following-a-generator-disturbance
-1P1Q screening estimates the complex voltage V vector following a disturbance. This project considers either an outage if generator 2 or generator 3 , but not both, affecting the voltage. The program flow and algorithm is as follows:
 
+Project Site:
+
+https://portfolio.katiegirl.net/2018/07/31/1p1qvsacpowerflow/
+
+
+Project Tools and Dependencies: 
+
+Matlab 
+  
+MatPower - Free, open-source Electric Power System Simulation and Optimization Tools for MATLAB and Octave (http://www.pserc.cornell.edu/matpower/)
+
+
+Description and Report:
+
+
+1P1Q screening estimates the complex voltage V vector following a disturbance. This project considers either an outage if generator 2 or generator 3 , but not both, affecting the voltage. The program flow and algorithm is as follows:
 
 Run pre-contingency fast-decoupled XB version power flow analysis
 
